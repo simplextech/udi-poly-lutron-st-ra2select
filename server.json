@@ -2,7 +2,7 @@
   "name": "ST-RA2Select",
   "docs": "https://github.com/simplextech/udi-poly-lutron-st-ra2select",
   "type": "node",
-  "executable": "nodeserver.js",
+  "executable": "st-ra2select.js",
   "install": "install.sh",
   "description": "Polyglot integration of Lutron Integration Protocol for RA2 Select",
   "notice": "",
@@ -13,7 +13,7 @@
     {
       "title": "Polyglot integration of Lutron Integration Protocol for RA2 Select",
       "author": "Simplex Technology",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "date": "September 25th, 2020",
       "source": "https://github.com/simplextech/udi-poly-lutron-st-ra2select",
       "license": "https://github.com/simplextech/udi-poly-lutron-st-ra2select/blob/main/LICENSE"
